@@ -10,3 +10,5 @@
 
 
 ### These are the six sizes of My Header. A header is a text at the beginning of a section.
+
+![Image of GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
